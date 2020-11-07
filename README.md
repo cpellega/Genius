@@ -1,2 +1,2 @@
-# Gnius
- Jogo Genius com javascript
+#Jogo Genius com javascriptDenius
+
